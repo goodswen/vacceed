@@ -4,19 +4,20 @@ Vacceed is the collective name for a framework of linked bioinformatics programs
 It has been designed to facilitate an automated, high-throughput in silico approach to vaccine candidate discovery
 for eukaryotic pathogens.
  
-Note that Vacceed has been designed for a Linux operating system and has only been tested on Red Hat Enterprise Linux 7.5, 
-but is expected to work on most Linux distributions.
+Note that Vacceed has been designed for a Linux operating system and has only been tested on Red Hat Enterprise Linux 7.5 and 7.7, but is expected to work on most Linux distributions.
 
-**Vacceed version 2.0 [Latest version]**
+** Vacceed version 2.1 ** [Latest version – updated for TargetP 2.0]
 
-This version has been configured to run with the following installed programs (note the version numbers): SignalP 5.0, WoLF PSORT 0.2,
-TargetP 1.1, TMHMM 2.0, Phobius 1.0.1, DeepLoc 1.0 (an additional program when compared to Vacceed 1.1), 
+This version has been configured to run with the following installed programs (note the version numbers): SignalP 5.0, WoLF PSORT 0.2, TargetP 2.0, TMHMM 2.0, Phobius 1.0.1, DeepLoc 1.0 (an additional program when compared to Vacceed 1.1), IEDB peptide-MHC binding predictors (MHCI version 2.17 and MHCII version 2.16.3)
+
+**Vacceed version 2.0 **
+
+This version has been configured to run with the following installed programs (note the version numbers): SignalP 5.0, WoLF PSORT 0.2, TargetP 1.1, TMHMM 2.0, Phobius 1.0.1, DeepLoc 1.0 (an additional program when compared to Vacceed 1.1), 
 IEDB peptide-MHC binding predictors (MHCI version 2.17 and MHCII version 2.16.3)
 
 **Vacceed version 1.1**
 
-This version has been configured to run with the following installed programs (note the version numbers): SignalP 4.1, WoLF PSORT 0.2, 
-TargetP 1.1, TMHMM 2.0, Phobius 1.0.1, IEDB peptide-MHC binding predictors (MHCI version 2.9.1 and MHCII version 2.5.1)
+This version has been configured to run with the following installed programs (note the version numbers): SignalP 4.1, WoLF PSORT 0.2, TargetP 1.1, TMHMM 2.0, Phobius 1.0.1, IEDB peptide-MHC binding predictors (MHCI version 2.9.1 and MHCII version 2.5.1)
 
 
 **To run Vacceed**
